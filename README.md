@@ -4,7 +4,21 @@ A hyper-functional, completely free, sleek, web‑based personal AI interface po
 
 ---
 
-## ⚠⚠⚠WARNING⚠⚠⚠: This AI may generate infactual information. Please do NOT trust this AI for work requiring direct knowledge. I tried my best to reduce these errors, however. 
+## 📚 Table of Contents
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Advanced Settings](#-advanced-settings)
+- [License](#-license)
+
+---
+
+## ⚠️ Disclaimer
+
+This AI may generate inaccurate or misleading information. Do **not** rely on it for critical tasks or decisions. While efforts have been made to reduce hallucinations, always verify output independently.
+
+---
 
 ## 🚀 Features
 
@@ -27,6 +41,7 @@ A hyper-functional, completely free, sleek, web‑based personal AI interface po
   - Auto - Automatically chooses a mode for you based on the prompt. However, may be <strong>UNSTABLE</strong>.
 - **Location Support**: For AI Searches regarding location, such as restaurants near you or how the weather is like.
 - **No Tracking**: All of the AI's used here are completely local, meaning that there is absolutely no tracking (except for maybe google searches, as it is a network request; maybe your ISP can see what the AI searched up but doesn't know it was an AI). 
+
 ---
 
 ## 📋 Requirements
@@ -92,4 +107,3 @@ In the **Settings** modal, you can fine-tune:
 ## 📄 License
 
 MIT © 2025 Shayaan Hooda
-
