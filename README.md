@@ -4,6 +4,8 @@ A hyper-functional, completely free, sleek, web‑based personal AI interface po
 
 ---
 
+## ⚠⚠⚠WARNING⚠⚠⚠: This AI may generate infactual information. Please do NOT trust this AI for work requiring direct knowledge. I tried my best to reduce these errors, however. 
+
 ## 🚀 Features
 
 - **HTML-to-Markdown**: Uses [Turndown](https://github.com/domchristie/turndown) (via Cheerio) to extract and convert web content to Markdown.
@@ -21,8 +23,10 @@ A hyper-functional, completely free, sleek, web‑based personal AI interface po
   - Search - If up-to-date information is needed
   - Search + Deep Think - If complex thinking is required while searching
   - Deep Research Lite - Comprehensive searching using AI and <strong>COMPLETELY UNPAID</strong> APIs with <strong>NO API KEYS REQUIRED</strong>
-  - Heavy Duty Deep Research - An even more comprehensive search just like Deep Research Lite, but requiring complex thinking and higher depth research.
-
+  - Heavy Duty Deep Research - An even more comprehensive search just like Deep Research Lite, but requiring complex thinking and higher depth research. I believe that if you leave your computer running (you can even close out the tab) and it will still run.
+  - Auto - Automatically chooses a mode for you based on the prompt. However, may be <strong>UNSTABLE</strong>.
+- **Location Support**: For AI Searches regarding location, such as restaurants near you or how the weather is like.
+- **No Tracking**: All of the AI's used here are completely local, meaning that there is absolutely no tracking (except for maybe google searches, as it is a network request; maybe your ISP can see what the AI searched up but doesn't know it was an AI). 
 ---
 
 ## 📋 Requirements
