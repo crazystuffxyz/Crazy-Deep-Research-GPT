@@ -1,5 +1,5 @@
 {
-  "name": "Crazy-GPT",
+  "name": "Crazy-Deep-Research-GPT",
   "version": "1.0.0",
   "description": "A hyper-functional, sleek, and fully local web-based AI interface built with Node.js and powered by Ollama. It offers intelligent research modes, customizable AI behaviors, and Markdown conversion—perfect for deep exploration or quick answers, all with zero tracking or API keys required.",
   "main": "index.js",
