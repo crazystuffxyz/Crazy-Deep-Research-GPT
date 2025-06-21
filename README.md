@@ -36,7 +36,7 @@ This AI may generate inaccurate or misleading information. Do **not** rely on it
   - Deep Think - For complex tasks
   - Search - If up-to-date information is needed
   - Search + Deep Think - If complex thinking is required while searching
-  - Deep Research Lite - Comprehensive searching using AI and <strong>COMPLETELY UNPAID</strong> APIs with <strong>NO API KEYS REQUIRED</strong>
+  - Deep Research Lite - Comprehensive searching using AI and <strong>COMPLETELY UNPAID</strong> APIs with <strong>NO API KEYS REQUIRED</strong> and <strong>ABSOLUTELY NO USAGE LIMITS</strong>.
   - Heavy Duty Deep Research - An even more comprehensive search just like Deep Research Lite, but requiring complex thinking and higher depth research. I believe that if you leave your computer running (you can even close out the tab) and it will still run.
   - Auto - Automatically chooses a mode for you based on the prompt. However, may be <strong>UNSTABLE</strong>.
 - **Location Support**: For AI Searches regarding location, such as restaurants near you or how the weather is like.
