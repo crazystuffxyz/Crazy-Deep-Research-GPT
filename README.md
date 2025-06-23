@@ -23,7 +23,7 @@ Additionally, a lot of memory, RAM, and CPU may be used due to the size of AI mo
 ## 🚀 Features
 
 - **HTML-to-Markdown**: Uses [Turndown](https://github.com/domchristie/turndown) (via Cheerio) to extract and convert web content to Markdown.
-- **Ollama Models**: Integrates with Ollama to run local LLMs like `llama3.2:1b` and `deepseek-r1:1.5b`.
+- **Ollama Models**: Integrates with Ollama to run local LLMs like `qwen2.5vl:3b` and `deepseek-r1:1.5b`.
 - **Deep Research Modes**: Multiple research depths and breadths settings for fine-grained control.
 - **Customizable AI Settings**:
   - System prompts
@@ -50,7 +50,7 @@ Additionally, a lot of memory, RAM, and CPU may be used due to the size of AI mo
 - **Ollama**: Installed and configured on your machine.
   - Pull the recommended models:
     ```bash
-    ollama pull llama3.2:1b
+    ollama pull qwen2.5vl:3b
     ollama pull deepseek-r1:1.5b
     ```
 
@@ -69,7 +69,7 @@ Additionally, a lot of memory, RAM, and CPU may be used due to the size of AI mo
    ```
 3. **Configure Ollama**:
    - Ensure Ollama is running and models are available.
-   - In the **Advanced Settings** modal (Settings ⚙️), verify that `llama3.2:1b` and `deepseek-r1:1.5b` appear in the model lists.
+   - In the **Advanced Settings** modal (Settings ⚙️), verify that `qwen2.5vl:3b` and `deepseek-r1:1.5b` appear in the model lists.
 
 ---
 
@@ -93,7 +93,7 @@ In the **Settings** modal, you can fine-tune:
 
 - **Custom System Prompt**: Shape the AI’s behavior.
 - **Primary / Auxiliary Model**:
-  - Select from local Ollama models (e.g., `llama3.2:1b`, `deepseek-r1:1.5b`, or pull new ones).
+  - Select from local Ollama models (e.g., `qwen2.5vl:3b`, `deepseek-r1:1.5b`, or pull new ones).
   - Adjust **Temperature** (0.0–2.0) for creativity control.
 - **Deep Research Lite**:
   - **Depth** (1–5): How thoroughly to research.
