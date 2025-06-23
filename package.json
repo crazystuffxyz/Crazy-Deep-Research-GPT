@@ -1,7 +1,7 @@
 {
-  "name": "Crazy-Deep-Research-GPT",
+  "name": "chatgpt-open-source",
   "version": "1.0.0",
-  "description": "A hyper-functional, sleek, and fully local web-based AI interface built with Node.js and powered by Ollama. It offers intelligent research modes, customizable AI behaviors, and Markdown conversion—perfect for deep exploration or quick answers, all with zero tracking or API keys required.",
+  "description": "An open source version of chatGPT that uses deepseek from ollama, but people don't spy on you so you can use it locally. It also supports searching and deep thinking. More features coming soon. When running locally, search features may not work.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Tested successfully\"",
@@ -13,6 +13,7 @@
   "dependencies": {
     "@mozilla/readability": "^0.6.0",
     "axios": "^1.8.1",
+    "cheerio": "^1.1.0",
     "express": "^4.21.2",
     "gpt-tokenizer": "^2.9.0",
     "jsdom": "^26.1.0",
