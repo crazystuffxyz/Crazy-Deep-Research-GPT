@@ -14,9 +14,10 @@ A hyper-functional, completely free, sleek, web‑based personal AI interface po
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimers
 
 This AI may generate inaccurate or misleading information. Do **not** rely on it for critical tasks or decisions. While efforts have been made to reduce hallucinations, always verify output independently.
+<br>
 Additionally, a lot of memory, RAM, and CPU may be used due to the size of AI models, and you need a lot of RAM and CPU based on the models you are using. Using too big models or using many concurrent processes will take a lot of time, and it may even bug due to timeout errors, so beware.
 ---
 
